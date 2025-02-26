@@ -105,16 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: ''
       color: text-primary
