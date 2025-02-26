@@ -15,7 +15,7 @@ sections:
     actions: []
     media:
       url: /images/Trive Well.PNG
-      altText: Unblock your team boost your time to production preview
+      altText: Thrive Mind 360 Logo
       elementId: ''
       type: ImageBlock
     badge:
