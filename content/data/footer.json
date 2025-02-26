@@ -30,7 +30,7 @@
     },
     "socialLinks": [
         {
-            "altText": "Email link",
+            "altText": "Contact Email",
             "url": "/",
             "icon": "mail",
             "type": "Social"
