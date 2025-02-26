@@ -35,13 +35,6 @@ sections:
       text: THE MIGRAINE MIRACLE
       color: text-dark
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
     subtitle: ''
     text: >
       I know how debilitating migraines can be because I lived with them for
