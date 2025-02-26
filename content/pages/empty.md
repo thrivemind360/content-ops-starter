@@ -3,7 +3,7 @@ type: PageLayout
 title: Migraine Cure
 sections:
   - type: ImageGallerySection
-    subtitle: The Migraine Miracle
+    subtitle: How I Cured My 20-Year Severe Migraine in 24 Hours
     images:
       - type: ImageBlock
         url: /images/Blue Brown Modern Book Cover.jpg
