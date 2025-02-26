@@ -55,10 +55,10 @@ sections:
       - type: FeaturedItem
         title: BOOK
         subtitle: The Migraine Miracle
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          In this book, I share the methods that cured my migraine, and how you,
+          too, can take control of your migraine. This book might be the
+          breakthrough you have been looking for!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
