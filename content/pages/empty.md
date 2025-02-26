@@ -3,7 +3,7 @@ type: PageLayout
 title: Migraine Cure
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: The Migraine Miracle
     images:
       - type: ImageBlock
         url: /images/Blue Brown Modern Book Cover.jpg
