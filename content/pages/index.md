@@ -645,7 +645,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Trive Well.PNG
-        altText: Empathy logo
+        altText: Thrive Mind logo
         elementId: ''
     elementId: ''
     motion: static
