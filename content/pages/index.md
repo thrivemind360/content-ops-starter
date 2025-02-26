@@ -77,7 +77,7 @@ sections:
           type: ImageBlock
           altText: How to cure migraine
           elementId: ''
-          url: /images/How to cure migraine book1.jpg
+          url: /images/How to cure migraine book2.jpg
           styles:
             self:
               borderRadius: x-large
