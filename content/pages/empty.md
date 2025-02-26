@@ -7,7 +7,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Blue Brown Modern Book Cover.jpg
-        altText: Image alt text placeholder
+        altText: How to cure migraine
         elementId: ''
         styles:
           self:
