@@ -39,7 +39,6 @@ sections:
       balance, and unlock your natural ability for self-healing.
     actions: []
     media:
-      url: /images/Trive Well.PNG
       altText: Thrive Mind 360 Logo
       elementId: ''
       type: ImageBlock
