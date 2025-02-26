@@ -75,7 +75,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: How to cure migraine
           elementId: ''
           url: /images/Blue Brown Modern Book Cover 2.jpg
           styles:
