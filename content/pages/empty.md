@@ -32,7 +32,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: THE MIGRAINE MIRACLE
       color: text-dark
 slug: empty
 isDraft: false
