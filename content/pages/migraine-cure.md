@@ -88,7 +88,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: empty
+slug: migraine cure
 isDraft: false
 seo:
   type: Seo
