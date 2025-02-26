@@ -57,7 +57,6 @@ sections:
       looking for.
 
 
-
       This book includes:
 
 
@@ -83,10 +82,8 @@ sections:
       *   Simple, practical strategies you can start using today.
 
 
-
-
-      This book is not just about pain - it is about reclaiming your life.
-
+      This book is not just about pain relief - it is about reclaiming your
+      life.
 
 
       Get your copy HERE.
