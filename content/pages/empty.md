@@ -6,7 +6,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Blue Brown Modern Book Cover.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
