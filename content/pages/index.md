@@ -2,37 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Thrive Mind 360
-      color: text-dark
-      type: TitleBlock
-    subtitle: Transform Your Mind. Thrive In Life.
-    text: >
-      At Thrive Mind 360, we believe your mind is your most powerful asset. By
-      cultivating the right mindset, you can influence your body, create
-      balance, and unlock your natural ability for self-healing.
-    actions: []
-    media:
-      url: /images/Trive Well.PNG
-      altText: Thrive Mind 360 Logo
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: DISCOVER
@@ -117,6 +86,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Thrive Mind 360
+      color: text-dark
+      type: TitleBlock
+    subtitle: Transform Your Mind. Thrive In Life.
+    text: >
+      At Thrive Mind 360, we believe your mind is your most powerful asset. By
+      cultivating the right mindset, you can influence your body, create
+      balance, and unlock your natural ability for self-healing.
+    actions: []
+    media:
+      url: /images/Trive Well.PNG
+      altText: Thrive Mind 360 Logo
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - title: Divider
     colors: bg-light-fg-dark
     styles:
