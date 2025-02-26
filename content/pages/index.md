@@ -218,6 +218,31 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: ImageGallerySection
+    subtitle: Our customers
+    images:
+      - type: ImageBlock
+        url: /images/Trive Well.PNG
+        altText: Thrive Mind logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Social Media Management
       color: text-dark
@@ -253,31 +278,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - type: ImageGallerySection
-    subtitle: Our customers
-    images:
-      - type: ImageBlock
-        url: /images/Trive Well.PNG
-        altText: Thrive Mind logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: Business Consulting
       color: text-dark
