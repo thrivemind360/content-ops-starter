@@ -77,7 +77,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/Blue Brown Modern Book Cover.jpg
+          url: /images/F032FAE1-66E2-438F-AECF-DDB8D06E30F5.jpg
           styles:
             self:
               borderRadius: x-large
