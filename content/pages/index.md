@@ -84,8 +84,8 @@ sections:
       - title: Self-Healing
         subtitle: Guided Meditation
         text: >
-          This meditation helps you to self-heal any pain or illness that you
-          have.
+          This meditation is created to help you self-heal any pain or illness
+          that you have. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
