@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Home",
-            "url": "/pricing",
+            "label": "Migraine Cure",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Migraine Cure",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Home",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
