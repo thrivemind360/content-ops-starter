@@ -53,8 +53,8 @@ sections:
       This book includes:
 
 
-      *   A real, firsthand experience from someone who suffered for almost two
-      decades.
+      *   A real, firsthand experience from someone who suffered severe migraine
+      for almost two decades.
 
 
       <!---->
