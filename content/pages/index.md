@@ -644,7 +644,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Trive Well.PNG
         altText: Empathy logo
         elementId: ''
     elementId: ''
