@@ -87,7 +87,7 @@ sections:
           This meditation is created to help you self-heal any pain or illness
           that you have. 
         image:
-          url: /images/icon2.svg
+          url: /images/Self Healing Meditation.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
