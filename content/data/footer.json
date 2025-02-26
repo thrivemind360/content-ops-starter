@@ -33,6 +33,13 @@
             "url": "mailto:thrivemind360@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/https://youtube.com/@thrivemind360official?si=R0c4WQMpEKQ2xtxh",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [],
