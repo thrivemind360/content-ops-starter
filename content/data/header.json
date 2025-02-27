@@ -22,7 +22,7 @@
         {
             "label": "Migraine Cure",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/migrainecure",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
