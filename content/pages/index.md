@@ -64,6 +64,8 @@ sections:
           - pr-16
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: DISCOVER
