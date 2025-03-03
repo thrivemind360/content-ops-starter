@@ -3,7 +3,7 @@ title: Migraine Pain Relief Meditation
 slug: migrainemeditation
 sections:
   - title:
-      text: Migraine & Pain Meditation
+      text: MIGRAINE & PAIN MEDITATION
       color: text-dark
       styles:
         self:
