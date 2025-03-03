@@ -90,7 +90,7 @@ sections:
           [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
 
         actions: []
-        elementId: /migraine cure
+        elementId: /migrainecure
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
