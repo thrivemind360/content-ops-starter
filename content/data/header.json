@@ -23,6 +23,17 @@
             "elementId": ""
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/Home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Migraine or Pain Relief",
             "altText": "Cure Migraine",
             "url": "/migraine cure",
