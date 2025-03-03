@@ -100,8 +100,8 @@ sections:
       - title: Self-Healing
         subtitle: Guided Meditation
         text: >
-          This meditation is created to help you self-heal any pain or illness
-          that you have. 
+          This migraine or pain relief meditation is created to help you
+          self-heal any pain or illness that you have.
         image:
           url: /images/Self Healing Meditation.jpg
           altText: Featured icon two
