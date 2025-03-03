@@ -135,7 +135,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: center
         type: FeaturedItem
         elementId: /migrainemeditation
