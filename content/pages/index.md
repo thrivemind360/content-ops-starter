@@ -121,7 +121,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Self-Healing
-        subtitle: Guided Meditation
+        subtitle: Migraine Relief Meditation
         text: >
           This migraine or pain relief
           [meditation](https://youtu.be/BLvyF2gispk?feature=shared) is created
