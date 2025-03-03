@@ -80,14 +80,14 @@ sections:
         title: The Migraine Relief Miracle
         subtitle: Migraine Treatment Book
         text: >+
-          ##### In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share
+          ##### In this [book](https://www.amazon.com/dp/B0DYYZQGBJ), I share
           the migraine relief treatments that I had, and how I cured cured
           migraine permanently. This book might be the migraine "medicine" and
           migraine instant relief that you have been looking for!
 
 
           ##### You can find the book
-          [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
+          [here](https://www.amazon.com/dp/B0DYYZQGBJ).
 
         actions:
           - type: Button
