@@ -93,7 +93,7 @@ sections:
           - type: Button
             label: Details
             altText: ''
-            url: /migrainecure
+            url: /migraine cure
             showIcon: false
             icon: arrowRight
             iconPosition: right
