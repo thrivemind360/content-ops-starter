@@ -46,7 +46,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: '/https://www.amazon.co.uk/dp/B0DYYZQGBJ'
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
