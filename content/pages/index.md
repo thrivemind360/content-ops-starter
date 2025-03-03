@@ -79,14 +79,16 @@ sections:
       - type: FeaturedItem
         title: BOOK
         subtitle: The Migraine Miracle
-        text: >
-          In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share the
+        text: >+
+          ## In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share the
           migraine relief treatments that I had, and how I cured cured migraine
           permanently. This book might be the migraine "medicine" and migraine
           instant relief that you have been looking for!
 
 
-          You can find the book [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
+          ## You can find the book
+          [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
+
         actions: []
         elementId: /migraine cure
         colors: bg-neutralAlt-fg-dark
