@@ -79,7 +79,7 @@ sections:
 
           You can find the book [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
         actions: []
-        elementId: /
+        elementId: /migraine cure
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
