@@ -1,109 +1,51 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "DISCOVER",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Migraine Relief Book",
+                "altText": "Migraine Relief Techniques",
+                "url": "/migraine cure",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "elementId": "https://www.amazon.co.uk/dp/B0DYYZQGBJ"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Self Healing Meditation",
+                "url": "/migrainemeditation",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Migraine Meditation"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Contact Email",
+            "url": "mailto:thrivemind360@gmail.com",
             "icon": "mail",
             "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/https://youtu.be/BLvyF2gispk",
+            "icon": "youtube",
+            "elementId": "https://youtu.be/BLvyF2gispk"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-dark-fg-light",
+    "legalLinks": [],
+    "copyrightText": "",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
