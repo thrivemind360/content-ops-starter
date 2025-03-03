@@ -224,7 +224,7 @@ seo:
     Migraine treatment that cured chronic migraines naturally. Follow the
     migraine meditation/migraine relief music for headache and migraine pain
     relief.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/How to cure migraine book1.jpg
   type: Seo
 type: PageLayout
 ---
