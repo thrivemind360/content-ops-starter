@@ -71,9 +71,10 @@ sections:
         title: BOOK
         subtitle: The Migraine Miracle
         text: >
-          In this book, I share the methods that cured my migraine, and how you,
-          too, can take control of your migraine. This book might be the
-          breakthrough you have been looking for!
+          In this book, I share the migraine relief treatments that I had, and
+          how I cured cured migraine permanently. This book might be the
+          migraine "medicine" and migraine instant relief that you have been
+          looking for!
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
