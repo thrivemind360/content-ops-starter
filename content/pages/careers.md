@@ -48,7 +48,9 @@ sections:
     elementId: 'https://youtu.be/BLvyF2gispk'
 seo:
   metaTitle: Migraine Pain Relief Meditation
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: >-
+    Discover how I cured my chronic migraines in 24 hours. Get my step-by-step
+    migraine relief techniques & guided meditation for pain management.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
