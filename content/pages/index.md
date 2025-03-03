@@ -77,7 +77,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Migraine Miracle
+        title: The Migraine Miracle
         subtitle: Book
         text: >+
           ##### In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share
