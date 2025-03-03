@@ -33,10 +33,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Transform Your Mind. Thrive In Life.
-    text: >
-      At Thrive Mind 360, we believe your mind is your most powerful asset. By
-      cultivating the right mindset, you can influence your body, create
-      balance, and unlock your natural ability for self-healing.
+    text: >+
+      <div style="text-align: center">At Thrive Mind 360, we believe your mind
+      is your most powerful asset. By cultivating the right mindset, you can
+      influence your body, create balance, and unlock your natural ability for
+      self-healing.</div>
+
     actions: []
     media:
       altText: Thrive Mind 360 Logo
