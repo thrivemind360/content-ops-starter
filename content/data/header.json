@@ -12,17 +12,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Button",
-            "label": "Home",
-            "altText": "",
-            "url": "/Home",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "Home",
             "altText": "",
