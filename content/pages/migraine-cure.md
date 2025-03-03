@@ -55,6 +55,6 @@ seo:
     migraine meditation/migraine relief music for headache and migraine pain
     relief.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/How to cure migraine book3.jpg
   metaTags: []
 ---
