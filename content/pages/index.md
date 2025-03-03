@@ -78,7 +78,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Migraine Miracle
-        subtitle: The Migraine Miracle
+        subtitle: Book
         text: >+
           ##### In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share
           the migraine relief treatments that I had, and how I cured cured
