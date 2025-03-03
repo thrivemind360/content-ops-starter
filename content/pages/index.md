@@ -103,8 +103,13 @@ sections:
       - title: Self-Healing
         subtitle: Guided Meditation
         text: >
-          This migraine or pain relief meditation is created to help you
-          self-heal any pain or illness that you have.
+          This migraine or pain relief
+          [meditation](https://youtu.be/BLvyF2gispk?feature=shared) is created
+          to help you self-heal any pain or illness that you have.
+
+
+          You can find the guided migraine meditation
+          [here](https://youtu.be/BLvyF2gispk?feature=shared).
         image:
           url: /images/Self Healing Meditation.jpg
           altText: Pain Relief Meditation
