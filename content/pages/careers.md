@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Migraine Pain Relief Meditation
 slug: careers
 sections:
   - title:
