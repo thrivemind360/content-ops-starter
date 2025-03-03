@@ -53,5 +53,7 @@ seo:
     migraine relief techniques & guided meditation for pain management.
   socialImage: /images/How to cure migraine book2.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
