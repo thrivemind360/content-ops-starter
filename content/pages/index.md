@@ -129,7 +129,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-        elementId: /
+        elementId: /migrainemeditation
     actions: []
     badge:
       label: ''
