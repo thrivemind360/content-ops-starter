@@ -36,50 +36,7 @@ sections:
       color: text-dark
   - type: GenericSection
     subtitle: ''
-    text: >
-      I know how debilitating migraines can be because I lived with them for
-      nearly 20 years. I tried everything - medications, diets, lifestyle
-      changes, but nothing provided lasting relief. Then, one day, I discovered
-      a method that completely changed my life. Within just 24 hours, my
-      chronic, severe migraines were gone.
-
-
-      In this book, I share my journey, the methods that worked, and how you,
-      too, can cure your migraine. If you have tried everything and still
-      struggle with migraines, this book might be the breakthrough you have been
-      looking for.
-
-
-      This book includes:
-
-
-      *   A real, firsthand experience from someone who suffered severe migraine
-      for almost two decades.
-
-
-      <!---->
-
-
-      *   A step-by-step guide on the exact techniques that led to my recovery.
-
-
-      <!---->
-
-
-      *   Techniques that go beyond traditional treatments.
-
-
-      <!---->
-
-
-      *   Simple, practical strategies you can start using today.
-
-
-      This book is not just about pain relief - it is about reclaiming your
-      life.
-
-
-      Get your copy HERE.
+    text: "I know how debilitating migraines can be because I lived with them for nearly 20 years. But everything changed when discovered a natural method that cured my migraine permanently. Within just 24 hours, my chronic migraine was completely gone.\_\n\nIn my book, The Migraine Miracle: How I Cured My 20-Year Severe Pain in Just 24 Hours, I share the step-by-step migraine relief techniques that helped me achieve long lasting migraine relief.\n\nThis is a guided migraine pain meditation. It is designed to help you manage migraine, headaches, tension and any other health conditions. \_Listen to this migraine relief music whenever you feel pain, or sense an attach is coming.\_\n\nFor a complete guide on how to cure migraines naturally, please refer to my book on Amazon: The Migraine Miracle - How I Cured My 20-Year Severe Pain in Just 24 Hours.\_\n\n\nThis book includes:\n\n*   A real, firsthand experience from someone who suffered severe migraine for almost two decades.\n\n<!---->\n\n*   A step-by-step guide on the exact migraine relief techniques that led to my recovery.\n\n<!---->\n\n*   Natural migraine relief techniques that go beyond traditional treatments.\n\n<!---->\n\n*   Simple, practical strategies you can start using today.\n\nThis book is not just about pain relief - it is about reclaiming your life.\n\nGet your copy HERE.\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
