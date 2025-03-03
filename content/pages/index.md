@@ -89,7 +89,16 @@ sections:
           ##### You can find the book
           [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
 
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /migrainecure
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: /migrainecure
         colors: bg-neutralAlt-fg-dark
         styles:
