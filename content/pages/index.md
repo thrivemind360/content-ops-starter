@@ -220,7 +220,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Migraine Relief
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Migraine treatment that cured chronic migraines naturally. Follow the
+    migraine meditation/migraine relief music for headache and migraine pain
+    relief.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
