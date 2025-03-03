@@ -50,7 +50,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: How to Cure Migraine Permanently
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Migraine treatment that cured chronic migraines naturally. Follow the
+    migraine meditation/migraine relief music for headache and migraine pain
+    relief.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
