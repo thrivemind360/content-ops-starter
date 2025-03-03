@@ -1,6 +1,6 @@
 ---
 title: Migraine Pain Relief Meditation
-slug: careers
+slug: migrainemeditation
 sections:
   - title:
       text: Migraine & Pain Meditation
