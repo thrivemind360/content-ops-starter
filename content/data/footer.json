@@ -41,7 +41,7 @@
             "altText": "YouTube icon",
             "url": "/https://youtu.be/BLvyF2gispk",
             "icon": "youtube",
-            "elementId": ""
+            "elementId": "https://youtu.be/BLvyF2gispk"
         }
     ],
     "legalLinks": [],
