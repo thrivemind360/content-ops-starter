@@ -100,7 +100,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
         image:
           type: ImageBlock
           altText: How to cure migraine
