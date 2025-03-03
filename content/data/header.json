@@ -12,11 +12,11 @@
     },
     "primaryLinks": [
         {
-            "type": "Button",
+            "type": "Link",
             "label": "Home",
             "altText": "",
             "url": "/Home",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
