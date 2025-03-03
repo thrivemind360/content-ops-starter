@@ -15,7 +15,7 @@ sections:
       - type: Button
         label: Go To Meditation
         altText: ''
-        url: '/https://youtu.be/BLvyF2gispk'
+        url: 'https://youtu.be/BLvyF2gispk'
         showIcon: false
         icon: arrowRight
         iconPosition: right
