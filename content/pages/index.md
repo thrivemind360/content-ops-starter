@@ -32,6 +32,9 @@ sections:
       text: Thrive Mind 360
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Transform Your Mind. Thrive In Life.
     text: >+
       <div style="text-align: center">At Thrive Mind 360, we believe your mind
