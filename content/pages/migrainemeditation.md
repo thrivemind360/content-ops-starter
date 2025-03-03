@@ -44,7 +44,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
     elementId: 'https://youtu.be/BLvyF2gispk'
 seo:
   metaTitle: Migraine Pain Relief Meditation
