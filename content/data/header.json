@@ -12,8 +12,19 @@
     },
     "primaryLinks": [
         {
+            "type": "Button",
+            "label": "Home",
+            "altText": "",
+            "url": "/Home",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Migraine or Pain Relief",
-            "altText": "Migraine Cure",
+            "altText": "Cure Migraine",
             "url": "/migraine cure",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -22,7 +33,7 @@
         },
         {
             "label": "Self-Healing Meditation",
-            "altText": "Careers page",
+            "altText": "Self-Healing Meditation",
             "url": "/migrainemeditation",
             "icon": "arrowRight",
             "iconPosition": "right",
