@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Contact",
+            "label": "",
             "altText": "Dropdown",
             "links": [],
             "labelStyle": "secondary",
