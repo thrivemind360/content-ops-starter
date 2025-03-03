@@ -91,7 +91,7 @@ sections:
 
         actions:
           - type: Button
-            label: Get started
+            label: Details
             altText: ''
             url: /migrainecure
             showIcon: false
