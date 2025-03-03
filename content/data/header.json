@@ -12,15 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Migraine or Pain Relief",
-            "altText": "Migraine Cure",
-            "url": "/migraine cure",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Home",
             "altText": "",
@@ -30,6 +21,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Migraine or Pain Relief",
+            "altText": "Migraine Cure",
+            "url": "/migraine cure",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Self-Healing Meditation",
