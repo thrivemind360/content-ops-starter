@@ -28,13 +28,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "",
-            "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [],
