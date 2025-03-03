@@ -107,7 +107,7 @@ sections:
           self-heal any pain or illness that you have.
         image:
           url: /images/Self Healing Meditation.jpg
-          altText: Featured icon two
+          altText: Pain Relief Meditation
           elementId: ''
           type: ImageBlock
         actions: []
