@@ -77,8 +77,8 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: BOOK
-        subtitle: The Migraine Miracle
+        title: The Migraine Relief Miracle
+        subtitle: Book
         text: >+
           ##### In this [book](https://www.amazon.co.uk/dp/B0DYYZQGBJ), I share
           the migraine relief treatments that I had, and how I cured cured
@@ -89,7 +89,16 @@ sections:
           ##### You can find the book
           [here](https://www.amazon.co.uk/dp/B0DYYZQGBJ).
 
-        actions: []
+        actions:
+          - type: Button
+            label: Details
+            altText: ''
+            url: /migrainecure
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: /migrainecure
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -126,7 +135,16 @@ sections:
           altText: Pain Relief Meditation
           elementId: 'https://youtu.be/BLvyF2gispk?feature=shared'
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Details
+            altText: ''
+            url: /migrainemeditation
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
