@@ -141,16 +141,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
         elementId: /migrainemeditation
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /migrainecure
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     badge:
       label: ''
       color: text-primary
