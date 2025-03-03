@@ -47,7 +47,7 @@ sections:
       url: /images/abstract-background.svg
     elementId: 'https://youtu.be/BLvyF2gispk'
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Migraine Pain Relief Meditation
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
