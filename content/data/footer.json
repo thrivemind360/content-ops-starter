@@ -14,7 +14,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "elementId": "https://www.amazon.co.uk/dp/B0DYYZQGBJ"
             },
             {
                 "label": "Self Healing Guide",
