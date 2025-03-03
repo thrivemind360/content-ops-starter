@@ -39,7 +39,7 @@
         {
             "type": "Social",
             "altText": "YouTube icon",
-            "url": "/https://youtu.be/BLvyF2gispk",
+            "url": "https://youtu.be/BLvyF2gispk",
             "icon": "youtube",
             "elementId": "https://youtu.be/BLvyF2gispk"
         }
