@@ -51,7 +51,7 @@ seo:
   metaDescription: >-
     Discover how I cured my chronic migraines in 24 hours. Get my step-by-step
     migraine relief techniques & guided meditation for pain management.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/How to cure migraine book2.jpg
   type: Seo
 type: PageLayout
 ---
