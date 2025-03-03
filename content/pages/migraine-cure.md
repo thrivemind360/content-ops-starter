@@ -41,7 +41,7 @@ sections:
       - type: Button
         label: Get The Book
         altText: ''
-        url: 'https://www.amazon.co.uk/dp/B0DYYZQGBJ'
+        url: 'https://https://www.amazon.com/dp/B0DYYZQGBJ'
         showIcon: false
         icon: arrowRight
         iconPosition: right
