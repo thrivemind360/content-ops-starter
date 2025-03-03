@@ -92,7 +92,7 @@ sections:
         image:
           type: ImageBlock
           altText: How to cure migraine
-          elementId: ''
+          elementId: 'https://www.amazon.co.uk/dp/B0DYYZQGBJ'
           url: /images/How to cure migraine book3.jpg
           styles:
             self:
