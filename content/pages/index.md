@@ -135,7 +135,16 @@ sections:
           altText: Pain Relief Meditation
           elementId: 'https://youtu.be/BLvyF2gispk?feature=shared'
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /migrainemeditation
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
