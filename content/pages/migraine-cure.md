@@ -41,12 +41,12 @@ sections:
       - type: Button
         label: Get The Book
         altText: ''
-        url: '/https://www.amazon.co.uk/dp/B0DYYZQGBJ'
+        url: 'https://www.amazon.co.uk/dp/B0DYYZQGBJ'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: '/https://www.amazon.co.uk/dp/B0DYYZQGBJ'
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
