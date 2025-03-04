@@ -32,7 +32,9 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: THE MIGRAINE MIRACLE
+      text: >-
+        THE MIGRAINE MIRACLE - How I Cured My 20-Year Severe Migraine
+        Permanently in Just 24 Hours
       color: text-dark
   - type: GenericSection
     subtitle: ''
