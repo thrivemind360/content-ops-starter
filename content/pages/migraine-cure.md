@@ -32,7 +32,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: How I Cured My 20-Year Severe Migraine Permanently in Just 24 Hours
+      text: Migraine Relief Techniques
       color: text-dark
   - type: GenericSection
     subtitle: ''
