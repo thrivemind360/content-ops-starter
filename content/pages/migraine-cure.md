@@ -31,6 +31,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+        fontStyle: italic
     title:
       type: TitleBlock
       text: Migraine Relief Techniques
