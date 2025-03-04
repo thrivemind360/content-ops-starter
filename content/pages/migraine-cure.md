@@ -3,7 +3,7 @@ type: PageLayout
 title: Migraine Cure
 sections:
   - type: ImageGallerySection
-    subtitle: How I Cured My 20-Year Severe Migraine Permanently in Just 24 Hours
+    subtitle: 'Migraine Relief Techniques '
     images:
       - type: ImageBlock
         url: /images/Blue Brown Modern Book Cover.jpg
