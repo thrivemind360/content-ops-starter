@@ -30,10 +30,15 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
+        fontStyle: italic
     title:
       type: TitleBlock
-      text: THE MIGRAINE MIRACLE
+      text: Migraine Relief Techniques
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: GenericSection
     subtitle: ''
     text: "##### **Struggling with chronic migraines? Looking for a natural, proven way to stop the migraine permanently?**\n\nFor nearly 20 years, I battled severe\_migraines that took over my life. I tried medications, diets, and every treatment I could find, but nothing worked, until I discovered a method that changed everything.\_**And within just 24 hours, my migraines were completely gone**.\n\nIn this book, I share the exact\_step-by-step techniques\_I used to break free from chronic pain. Whether you suffer from severe migraines, tension headaches, or recurring pain, these methods can help you find relief too.\n\nIn this book, it covers:\n\n*   A real, firsthand experience from someone who suffered migraines for 2 decades.\n\n*   A step-by-step guide on the exact migraine relief techniques that led to recovery.\n\n*   Migraine headache techniques that go beyond traditional treatments.\n\n*   Simple, practical strategies you can start using today.\n\nThis book includes:\n\n*   A real, firsthand experience from someone who suffered severe migraine for almost two decades.\n\n<!---->\n\n*   A step-by-step guide on the exact migraine relief techniques that led to my recovery.\n\n<!---->\n\n*   Natural migraine relief techniques that go beyond traditional treatments.\n\n<!---->\n\n*   Simple, practical strategies you can start using today.\n\n***\n\n**BONUS:**\_Includes a\_free guided meditation video\_to help you apply these techniques immediately!\n\nIf you have tried everything but still suffer from chronic migraines, this book offers a new approach that could transform your life.\n\n**Get your\_**[**copy**](https://www.amazon.com/dp/B0DYYZQGBJ)**\_today and take the first step toward a migraine-free life!**\n"
