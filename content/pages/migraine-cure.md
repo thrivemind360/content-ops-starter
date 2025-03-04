@@ -30,6 +30,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     title:
       type: TitleBlock
       text: Migraine Relief Techniques
