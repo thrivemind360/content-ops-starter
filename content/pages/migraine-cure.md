@@ -6,7 +6,7 @@ sections:
     subtitle: How I Cured My 20-Year Severe Migraine Permanently in Just 24 Hours
     images:
       - type: ImageBlock
-        url: /images/Blue Brown Modern Book Cover.jpg
+        url: /images/How to cure migraine book3.jpg
         altText: How to cure migraine
         elementId: ''
         styles:
