@@ -197,7 +197,11 @@ sections:
     subtitle: ''
     text: >
       We'd love to hear from you! Drop us a message after you read our book or
-      practised the meditation we created for you! 
+      practised the meditation we created for you!
+
+
+      If you have any questions regarding the methods, feel free to
+      [write](mailto:thrivemind360@gmail.com) to us too!
     badge:
       label: Contact Us
       color: text-primary
